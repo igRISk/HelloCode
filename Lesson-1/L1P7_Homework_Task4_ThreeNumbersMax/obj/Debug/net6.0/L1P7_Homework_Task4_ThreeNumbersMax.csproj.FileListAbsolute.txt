@@ -1,0 +1,15 @@
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\bin\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.exe
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\bin\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.deps.json
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\bin\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.runtimeconfig.json
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\bin\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.dll
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\bin\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.pdb
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.csproj.AssemblyReference.cache
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.AssemblyInfoInputs.cache
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.AssemblyInfo.cs
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.csproj.CoreCompileInputs.cache
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.dll
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\refint\L1P7_Homework_Task4_ThreeNumbersMax.dll
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.pdb
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\L1P7_Homework_Task4_ThreeNumbersMax.genruntimeconfig.cache
+D:\C#Projects\Lesson-1\L1P7_Homework_Task4_ThreeNumbersMax\obj\Debug\net6.0\ref\L1P7_Homework_Task4_ThreeNumbersMax.dll

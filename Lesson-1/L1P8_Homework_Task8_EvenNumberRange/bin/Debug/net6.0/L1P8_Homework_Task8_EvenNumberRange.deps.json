@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "L1P8_Homework_Task8_EvenNumberRange/1.0.0": {
+        "runtime": {
+          "L1P8_Homework_Task8_EvenNumberRange.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L1P8_Homework_Task8_EvenNumberRange/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

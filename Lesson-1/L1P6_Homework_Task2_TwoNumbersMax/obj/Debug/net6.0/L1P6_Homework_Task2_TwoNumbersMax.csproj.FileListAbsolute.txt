@@ -1,0 +1,15 @@
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\bin\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.exe
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\bin\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.deps.json
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\bin\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.runtimeconfig.json
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\bin\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.dll
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\bin\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.pdb
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.csproj.AssemblyReference.cache
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.AssemblyInfoInputs.cache
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.AssemblyInfo.cs
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.csproj.CoreCompileInputs.cache
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.dll
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\refint\L1P6_Homework_Task2_TwoNumbersMax.dll
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.pdb
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\L1P6_Homework_Task2_TwoNumbersMax.genruntimeconfig.cache
+D:\C#Projects\Lesson-1\L1P6_Homework_Task2_TwoNumbersMax\obj\Debug\net6.0\ref\L1P6_Homework_Task2_TwoNumbersMax.dll
