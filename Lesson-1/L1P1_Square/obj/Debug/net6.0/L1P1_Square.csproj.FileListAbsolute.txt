@@ -1,0 +1,15 @@
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\L1P1_Square.csproj.AssemblyReference.cache
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\L1P1_Square.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\L1P1_Square.AssemblyInfoInputs.cache
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\L1P1_Square.AssemblyInfo.cs
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\L1P1_Square.csproj.CoreCompileInputs.cache
+D:\C#Projects\Lesson-1\L1P1_Square\bin\Debug\net6.0\L1P1_Square.exe
+D:\C#Projects\Lesson-1\L1P1_Square\bin\Debug\net6.0\L1P1_Square.deps.json
+D:\C#Projects\Lesson-1\L1P1_Square\bin\Debug\net6.0\L1P1_Square.runtimeconfig.json
+D:\C#Projects\Lesson-1\L1P1_Square\bin\Debug\net6.0\L1P1_Square.dll
+D:\C#Projects\Lesson-1\L1P1_Square\bin\Debug\net6.0\L1P1_Square.pdb
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\L1P1_Square.dll
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\refint\L1P1_Square.dll
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\L1P1_Square.pdb
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\L1P1_Square.genruntimeconfig.cache
+D:\C#Projects\Lesson-1\L1P1_Square\obj\Debug\net6.0\ref\L1P1_Square.dll

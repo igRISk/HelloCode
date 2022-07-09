@@ -1,0 +1,15 @@
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\L1P3_WeekDayNumber.csproj.AssemblyReference.cache
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\L1P3_WeekDayNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\L1P3_WeekDayNumber.AssemblyInfoInputs.cache
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\L1P3_WeekDayNumber.AssemblyInfo.cs
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\L1P3_WeekDayNumber.csproj.CoreCompileInputs.cache
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\bin\Debug\net6.0\L1P3_WeekDayNumber.exe
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\bin\Debug\net6.0\L1P3_WeekDayNumber.deps.json
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\bin\Debug\net6.0\L1P3_WeekDayNumber.runtimeconfig.json
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\bin\Debug\net6.0\L1P3_WeekDayNumber.dll
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\bin\Debug\net6.0\L1P3_WeekDayNumber.pdb
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\L1P3_WeekDayNumber.dll
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\refint\L1P3_WeekDayNumber.dll
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\L1P3_WeekDayNumber.pdb
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\L1P3_WeekDayNumber.genruntimeconfig.cache
+D:\C#Projects\Lesson-1\L1P3_WeekDayNumber\obj\Debug\net6.0\ref\L1P3_WeekDayNumber.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "L1P2_SquareCheck/1.0.0": {
+        "runtime": {
+          "L1P2_SquareCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L1P2_SquareCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

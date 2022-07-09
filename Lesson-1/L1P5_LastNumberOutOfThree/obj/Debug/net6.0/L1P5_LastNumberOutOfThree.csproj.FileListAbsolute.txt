@@ -1,0 +1,15 @@
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\L1P5_LastNumberOutOfThree.csproj.AssemblyReference.cache
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\L1P5_LastNumberOutOfThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\L1P5_LastNumberOutOfThree.AssemblyInfoInputs.cache
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\L1P5_LastNumberOutOfThree.AssemblyInfo.cs
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\L1P5_LastNumberOutOfThree.csproj.CoreCompileInputs.cache
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\bin\Debug\net6.0\L1P5_LastNumberOutOfThree.exe
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\bin\Debug\net6.0\L1P5_LastNumberOutOfThree.deps.json
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\bin\Debug\net6.0\L1P5_LastNumberOutOfThree.runtimeconfig.json
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\bin\Debug\net6.0\L1P5_LastNumberOutOfThree.dll
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\bin\Debug\net6.0\L1P5_LastNumberOutOfThree.pdb
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\L1P5_LastNumberOutOfThree.dll
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\refint\L1P5_LastNumberOutOfThree.dll
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\L1P5_LastNumberOutOfThree.pdb
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\L1P5_LastNumberOutOfThree.genruntimeconfig.cache
+D:\C#Projects\Lesson-1\L1P5_LastNumberOutOfThree\obj\Debug\net6.0\ref\L1P5_LastNumberOutOfThree.dll

@@ -1,0 +1,10 @@
+﻿Console.Write("Please enter number from 1 to 7: ");
+int num = int.Parse(Console.ReadLine());
+if (num == 1) Console.WriteLine (num + "Monday");
+else if (num == 2) Console.WriteLine (num + " -> Tuesday");
+else if (num == 3) Console.WriteLine (num + " -> Wednesday");
+else if (num == 4) Console.WriteLine (num + " -> Thursday");
+else if (num == 5) Console.WriteLine (num + " -> Friday");
+else if (num == 6) Console.WriteLine (num + " -> Saturday");
+else if (num == 7) Console.WriteLine (num + " -> Sunday");
+else Console.WriteLine("There is no such day of the week");

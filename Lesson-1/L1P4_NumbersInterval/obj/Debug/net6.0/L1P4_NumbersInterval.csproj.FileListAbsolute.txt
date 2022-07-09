@@ -1,0 +1,15 @@
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\L1P4_NumbersInterval.csproj.AssemblyReference.cache
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\L1P4_NumbersInterval.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\L1P4_NumbersInterval.AssemblyInfoInputs.cache
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\L1P4_NumbersInterval.AssemblyInfo.cs
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\L1P4_NumbersInterval.csproj.CoreCompileInputs.cache
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\bin\Debug\net6.0\L1P4_NumbersInterval.exe
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\bin\Debug\net6.0\L1P4_NumbersInterval.deps.json
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\bin\Debug\net6.0\L1P4_NumbersInterval.runtimeconfig.json
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\bin\Debug\net6.0\L1P4_NumbersInterval.dll
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\bin\Debug\net6.0\L1P4_NumbersInterval.pdb
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\L1P4_NumbersInterval.dll
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\refint\L1P4_NumbersInterval.dll
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\L1P4_NumbersInterval.pdb
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\L1P4_NumbersInterval.genruntimeconfig.cache
+D:\C#Projects\Lesson-1\L1P4_NumbersInterval\obj\Debug\net6.0\ref\L1P4_NumbersInterval.dll

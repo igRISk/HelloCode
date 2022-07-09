@@ -1,0 +1,15 @@
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\L1P2_SquareCheck.csproj.AssemblyReference.cache
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\L1P2_SquareCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\L1P2_SquareCheck.AssemblyInfoInputs.cache
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\L1P2_SquareCheck.AssemblyInfo.cs
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\L1P2_SquareCheck.csproj.CoreCompileInputs.cache
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\bin\Debug\net6.0\L1P2_SquareCheck.exe
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\bin\Debug\net6.0\L1P2_SquareCheck.deps.json
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\bin\Debug\net6.0\L1P2_SquareCheck.runtimeconfig.json
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\bin\Debug\net6.0\L1P2_SquareCheck.dll
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\bin\Debug\net6.0\L1P2_SquareCheck.pdb
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\L1P2_SquareCheck.dll
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\refint\L1P2_SquareCheck.dll
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\L1P2_SquareCheck.pdb
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\L1P2_SquareCheck.genruntimeconfig.cache
+D:\C#Projects\Lesson-1\L1P2_SquareCheck\obj\Debug\net6.0\ref\L1P2_SquareCheck.dll
