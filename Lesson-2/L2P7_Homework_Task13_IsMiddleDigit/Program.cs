@@ -7,9 +7,9 @@
 Console.Write("Enter a number: ");
 int num = int.Parse(Console.ReadLine());
 string numS = num.ToString();
-char[] array = numS.ToCharArray();
+// char[] array = numS.ToCharArray();
 
 if (num > 99)
-    Console.WriteLine(num + " -> " + array[2]);
+    Console.WriteLine(num + " -> " + numS[2]);
 else
     Console.WriteLine(num + " -> no third digit");

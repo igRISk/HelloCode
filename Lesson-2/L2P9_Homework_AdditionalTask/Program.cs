@@ -7,13 +7,13 @@ int num = int.Parse(Console.ReadLine());
 
 Console.Write("Prime numbers in between 0 and " + num + " -> ");
 
-int i = 0;
+int i = 2;
 
 while (i <= num)
 {
     int c = 2;
     bool PrimeNum = true;
-    while (c < i) 
+    while (c < Math.Sqrt(i)) 
     {
         if (i % c == 0)
             PrimeNum = false;
