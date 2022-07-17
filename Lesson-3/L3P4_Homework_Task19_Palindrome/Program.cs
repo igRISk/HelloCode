@@ -16,12 +16,11 @@ else
 int flipNumber(int number)
 {
 int numInv = 0;
-int num2 = number;
-while (num2 > 0)
+while (number > 0)
     {
         numInv *= 10;
-        numInv += num2 % 10;
-        num2 /= 10;
+        numInv += number % 10;
+        number /= 10;
     }
 return numInv;
 }
