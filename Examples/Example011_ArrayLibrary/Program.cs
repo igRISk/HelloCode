@@ -45,6 +45,8 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 
-int num = 4;
+Console.Write("Enter a number: ");
+int num = int.Parse(Console.ReadLine());
+
 int pos = IndexOf(array, num);
 Console.Write("Index num '" + num + "' in array: " + pos);
