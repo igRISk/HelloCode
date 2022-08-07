@@ -1,15 +1,12 @@
 ﻿//Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
-void FillArray(int[] collection)
-{
-    int length = collection.Length;
-    int index = 0;
-    while (index < length)
-    {
-        collection[index] = new Random().Next(1, 10);
-        index++;
-    }
-}
+Console.Write("Enter numbers separated by spaces: ");
+int[] array = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+PrintArray(array);
+Console.WriteLine();
+
+
 
 void PrintArray (int[] col)
 {
@@ -23,10 +20,3 @@ void PrintArray (int[] col)
     }
     Console.Write("}");
 }
-
-int size = 8;
-int[] array = new int[size];
-
-FillArray(array);
-PrintArray(array);
-Console.WriteLine();
