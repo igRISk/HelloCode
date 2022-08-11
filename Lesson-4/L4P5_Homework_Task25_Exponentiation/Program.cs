@@ -10,7 +10,7 @@ int res = 1;
 
 for (int i = 1; i <= numB ; i++)
 {
-    res = res * numA;
+    res *= numA;
 }
 
 Console.Write(numA + "^" + numB + " -> " + res);

@@ -10,12 +10,7 @@ int[] array = new int[size];
 FillArray(array);
 PrintArray(array);
 
-int sizear = 0;
-if (size % 2 == 0)
-    sizear = size / 2;
-else
-    sizear = size / 2 + 1;
-
+int sizear = array.Length / 2 + array.Length % 2;
 int[] arrres = new int[sizear];
 
 for (int i = 0; i < sizear; i++)
